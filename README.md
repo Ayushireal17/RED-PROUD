@@ -1,2 +1,4 @@
 # RED-PROUD
-RED PROUD [WEBSITE &amp; ANDROID APPLICATION] An online blood &amp; Donor management system.
+
+Major Project @George College, Sealdah 
+BCA 6th sem (2020-23)
